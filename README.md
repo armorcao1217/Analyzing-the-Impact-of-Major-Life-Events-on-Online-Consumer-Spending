@@ -39,7 +39,7 @@ Data Citation: Alex Berke; Dan Calacci; Robert Mahari; Takahiro Yabe; Kent Larso
 ### 1️⃣ Job Loss Increases Online Spending
 - ~12% increase in Amazon spending during the year of job loss  
 - Suggests substitution toward lower-cost online goods  
-👉 **Interpretation:** Economic shocks may shift consumers toward price-sensitive online purchasing behavior.
+ **Interpretation:** Economic shocks may shift consumers toward price-sensitive online purchasing behavior.
 
 ### 2️⃣ Divorce Shows Moderate Effects
 - ~23% spending increase (marginal significance)  
@@ -47,7 +47,7 @@ Data Citation: Alex Berke; Dan Calacci; Robert Mahari; Takahiro Yabe; Kent Larso
 **Possible drivers:**
 - Household reconfiguration  
 - Emotional coping behavior  
-👉 **Interpretation:** Behavioral responses to life transitions may temporarily increase discretionary spending.
+**Interpretation:** Behavioral responses to life transitions may temporarily increase discretionary spending.
 
 ### 3️⃣ Other Events Show Limited Impact
 - Moving, pregnancy, and having a child were not statistically significant.
